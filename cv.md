@@ -1,7 +1,6 @@
 # Ivan Kazadaew
 
 ## QA Automation Engineer
-_____________________________________________________
 
 ## Contacts
 
